@@ -12,7 +12,7 @@ export default class Header extends Component {
     return (
       <Fragment>
             <Navbar  bg="dark" variant="dark">
-              <Navbar.Brand>Book Library</Navbar.Brand>
+              <Navbar.Brand>Smart Investment</Navbar.Brand>
             </Navbar>
       </Fragment>
     )

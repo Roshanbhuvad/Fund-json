@@ -2,7 +2,7 @@ import React, {Fragment, Component} from "react";
 import Navbar from "react-bootstrap/Navbar";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-export default class Footer extends Components {
+export default class Footer extends Component {
     render() {
         return (
             <Fragment>
