@@ -1,5 +1,6 @@
 .btn-primary{
   border: none;
+  margin-right: 10px;
   border-radius: 1px;
   background: rgb(230,110,171);
   background: linear-gradient(90deg, rgba(230,110,171,0.9808298319327731) 20%, rgba(198,98,226,1) 80%);
@@ -18,7 +19,7 @@ background: rgb(230,110,171)  !important;
 }
 
 .card{
-  border: none !important;
+  border: 0.5px solid !important;
   border-radius: 1px !important;
 }
 .card-body {
